@@ -1,5 +1,4 @@
 import 'package:chat/models/message.dart';
-import 'package:chat/res/colors.dart';
 import 'package:flutter/material.dart';
 
 class SentMessage extends StatelessWidget {
